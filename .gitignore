@@ -1,6 +1,6 @@
-./Include/*
-./Lib/*
-./Output/*
-./Script/*
-./test/*
-/__pycache__/*
+/Include/*
+/Lib/*
+/Output/*
+/Scripts/*
+/test/*
+*/__pycache__/*
